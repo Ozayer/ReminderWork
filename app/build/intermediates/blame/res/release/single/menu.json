@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android Project\\Backup alarm\\Backup Version 0.9.1(Remindz)\\Android-Alarm-Clock-master1\\app\\build\\intermediates\\res\\merged\\release\\menu\\global.xml",
+        "source": "D:\\Android Project\\Backup alarm\\Backup Version 0.9.1(Remindz)\\Android-Alarm-Clock-master1\\app\\src\\main\\res\\menu\\global.xml"
+    },
+    {
+        "merged": "D:\\Android Project\\Backup alarm\\Backup Version 0.9.1(Remindz)\\Android-Alarm-Clock-master1\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu.xml",
+        "source": "D:\\Android Project\\Backup alarm\\Backup Version 0.9.1(Remindz)\\Android-Alarm-Clock-master1\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "D:\\Android Project\\Backup alarm\\Backup Version 0.9.1(Remindz)\\Android-Alarm-Clock-master1\\app\\build\\intermediates\\res\\merged\\release\\menu\\menuitem.xml",
+        "source": "D:\\Android Project\\Backup alarm\\Backup Version 0.9.1(Remindz)\\Android-Alarm-Clock-master1\\app\\src\\main\\res\\menu\\menuitem.xml"
+    },
+    {
+        "merged": "D:\\Android Project\\Backup alarm\\Backup Version 0.9.1(Remindz)\\Android-Alarm-Clock-master1\\app\\build\\intermediates\\res\\merged\\release\\menu\\second.xml",
+        "source": "D:\\Android Project\\Backup alarm\\Backup Version 0.9.1(Remindz)\\Android-Alarm-Clock-master1\\app\\src\\main\\res\\menu\\second.xml"
+    }
+]

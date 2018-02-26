@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android Project\Backup alarm\Backup Version 0.9.1(Remindz)\Android-Alarm-Clock-master1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="D:\Android Project\Backup alarm\Backup Version 0.9.1(Remindz)\Android-Alarm-Clock-master1\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-18.0.0_26c45398852f8b93692c003c3e275ac282c63b81.jar" />
+    </item>
+    <item
+        jar="C:\Users\faisal-shakiba\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Android Project\Backup alarm\Backup Version 0.9.1(Remindz)\Android-Alarm-Clock-master1\app\build\intermediates\pre-dexed\release\support-v4-18.0.0_2e21c7f469ea447bb52823147cd32e3dd83ff36a.jar" />
+    </item>
+
+</items>

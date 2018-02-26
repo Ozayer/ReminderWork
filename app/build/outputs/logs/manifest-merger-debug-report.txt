@@ -1,0 +1,204 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:13:1-85:12
+INJECTED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:13:1-85:12
+INJECTED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:13:1-85:12
+INJECTED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:13:1-85:12
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\366cd19544e6fc2093384785a364f01a\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\a0efd213bcce631a3bdd8f729561a7d7\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\fb5a0aa01f6b992f84820a66361ec372\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\a7b765f66d21c41e162b8fead6d5473d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\953de9c6334b02dc41c733d670bea790\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\8fd5f77dfc6e83c45146459308dd48c9\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\8fb6326d3a88e187dc213418e74a2286\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\1822adfd456d15eecaabda1f440f8bd0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\d31bfa9fc41d115c1efb201155d172d0\AndroidManifest.xml:17:1-27:12
+INJECTED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:13:1-85:12
+INJECTED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:13:1-85:12
+INJECTED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:13:1-85:12
+	package
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:14:5-37
+		INJECTED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:16:5-32
+		INJECTED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:13:11-69
+	android:versionCode
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:15:5-28
+		INJECTED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:18:5-20:41
+INJECTED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:18:5-20:41
+INJECTED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:18:5-20:41
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\366cd19544e6fc2093384785a364f01a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\366cd19544e6fc2093384785a364f01a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\a0efd213bcce631a3bdd8f729561a7d7\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\a0efd213bcce631a3bdd8f729561a7d7\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\fb5a0aa01f6b992f84820a66361ec372\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\fb5a0aa01f6b992f84820a66361ec372\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\a7b765f66d21c41e162b8fead6d5473d\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\a7b765f66d21c41e162b8fead6d5473d\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\953de9c6334b02dc41c733d670bea790\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\953de9c6334b02dc41c733d670bea790\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\8fd5f77dfc6e83c45146459308dd48c9\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\8fd5f77dfc6e83c45146459308dd48c9\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\8fb6326d3a88e187dc213418e74a2286\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\8fb6326d3a88e187dc213418e74a2286\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\1822adfd456d15eecaabda1f440f8bd0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\1822adfd456d15eecaabda1f440f8bd0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\d31bfa9fc41d115c1efb201155d172d0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\d31bfa9fc41d115c1efb201155d172d0\AndroidManifest.xml:21:5-23:58
+INJECTED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:18:5-20:41
+INJECTED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:18:5-20:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\366cd19544e6fc2093384785a364f01a\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:20:9-38
+		INJECTED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:19:9-35
+		INJECTED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:23:5-66
+	android:name
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:23:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:25:5-75
+	android:name
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:25:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:26:5-80
+	android:name
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:26:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:27:22-78
+application
+ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:29:5-83:19
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\366cd19544e6fc2093384785a364f01a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\366cd19544e6fc2093384785a364f01a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\a0efd213bcce631a3bdd8f729561a7d7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\a0efd213bcce631a3bdd8f729561a7d7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\fb5a0aa01f6b992f84820a66361ec372\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\fb5a0aa01f6b992f84820a66361ec372\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\a7b765f66d21c41e162b8fead6d5473d\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\a7b765f66d21c41e162b8fead6d5473d\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\953de9c6334b02dc41c733d670bea790\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\953de9c6334b02dc41c733d670bea790\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\8fd5f77dfc6e83c45146459308dd48c9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\8fd5f77dfc6e83c45146459308dd48c9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\8fb6326d3a88e187dc213418e74a2286\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\8fb6326d3a88e187dc213418e74a2286\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\1822adfd456d15eecaabda1f440f8bd0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\1822adfd456d15eecaabda1f440f8bd0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\d31bfa9fc41d115c1efb201155d172d0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Ozayer\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\d31bfa9fc41d115c1efb201155d172d0\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:32:9-41
+	android:icon
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:31:9-44
+	android:allowBackup
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:30:9-35
+	android:theme
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:33:9-67
+activity#com.developersbd.alarm.AlarmActivity
+ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:34:9-36:57
+	android:label
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:36:13-45
+	android:name
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:35:13-42
+activity#com.developersbd.alarm.preferences.AlarmPreferencesActivity
+ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:37:9-46:20
+	android:parentActivityName
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:40:13-56
+	android:label
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:39:13-45
+	android:name
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:38:13-65
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:43:13-45:72
+	android:value
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:44:17-63
+service#com.developersbd.alarm.service.AlarmService
+ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:48:9-52:68
+	android:process
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:52:13-65
+	android:label
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:51:13-45
+	android:icon
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:50:13-49
+	android:name
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:49:13-49
+receiver#com.developersbd.alarm.service.AlarmServiceBroadcastReciever
+ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:54:9-58:20
+	android:name
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:54:19-72
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:55:13-57:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:56:17-79
+	android:name
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:56:25-76
+activity#com.developersbd.alarm.alert.AlarmAlertActivity
+ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:60:9-63:52
+	android:screenOrientation
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:63:13-49
+	android:label
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:62:13-45
+	android:name
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:61:13-53
+receiver#com.developersbd.alarm.alert.AlarmAlertBroadcastReciever
+ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:65:9-71
+	android:name
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:65:19-68
+receiver#com.developersbd.alarm.telephony.PhoneStateChangedBroadcastReciever
+ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:66:9-70:20
+	android:name
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:66:19-79
+intent-filter#android.intent.action.PHONE_STATE
+ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:67:13-69:29
+action#android.intent.action.PHONE_STATE
+ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:68:17-76
+	android:name
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:68:25-73
+activity#com.developersbd.alarm.SplashScreen
+ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:72:9-78:20
+	android:name
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:72:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:73:13-77:29
+action#android.intent.action.MAIN
+ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:74:17-69
+	android:name
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:74:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:76:17-77
+	android:name
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:76:27-74
+activity#com.developersbd.alarm.SecondActivity
+ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:79:9-81:61
+	android:label
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:81:13-58
+	android:name
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:80:13-43
+activity#com.developersbd.alarm.LanguageSelection
+ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:82:9-64
+	android:name
+		ADDED from E:\AI\ReminderPrt\Remindz-master\app\src\main\AndroidManifest.xml:82:19-52

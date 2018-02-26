@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="29570965628010"
+    token="4506368299526358579" >
+
+    <task
+        name="javac"
+        duration="250" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="23" />
+    <task
+        name="verifier"
+        duration="4" />
+
+    <artifact
+        location="D:\Android Project\Backup alarm\Backup Version 0.9.1(Remindz)\Android-Alarm-Clock-master1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+        type="DEX" />
+
+    <build timestamp="29017191098538" >
+        <artifact
+            location="D:\Android Project\Backup alarm\Backup Version 0.9.1(Remindz)\Android-Alarm-Clock-master1\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="29205145697117" >
+        <artifact
+            location="D:\Android Project\Backup alarm\Backup Version 0.9.1(Remindz)\Android-Alarm-Clock-master1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Android Project\Backup alarm\Backup Version 0.9.1(Remindz)\Android-Alarm-Clock-master1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Android Project\Backup alarm\Backup Version 0.9.1(Remindz)\Android-Alarm-Clock-master1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="29570965628010" >
+        <artifact
+            location="D:\Android Project\Backup alarm\Backup Version 0.9.1(Remindz)\Android-Alarm-Clock-master1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

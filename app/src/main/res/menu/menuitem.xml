@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:appcompat="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/menu_item_new"
+        android:title="NEW"
+
+        appcompat:showAsAction="always">
+    </item>
+    <item
+        android:id="@+id/menu_ite_language"
+        android:title="LANGUAGE"
+
+        appcompat:showAsAction="always">
+    </item>
+    <item
+        android:id="@+id/menu_item_setting"
+        android:title="SETTINGS"
+
+        appcompat:showAsAction="always">
+    </item>
+    <item
+        android:id="@+id/menu_item_faq"
+        android:title="FAQ"
+
+        appcompat:showAsAction="always">
+    </item>
+    <item
+        android:id="@+id/menu_item_adv"
+        android:title="ADVERTISEMENT"
+
+        appcompat:showAsAction="always">
+    </item>
+    <item
+        android:id="@+id/menu_item_about"
+        android:title="ABOUT US"
+
+        appcompat:showAsAction="always">
+    </item>
+
+
+</menu>

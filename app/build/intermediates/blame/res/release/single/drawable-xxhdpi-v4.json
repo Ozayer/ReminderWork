@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Android Project\\Backup alarm\\Backup Version 0.9.1(Remindz)\\Android-Alarm-Clock-master1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_drawer.png",
+        "source": "D:\\Android Project\\Backup alarm\\Backup Version 0.9.1(Remindz)\\Android-Alarm-Clock-master1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "D:\\Android Project\\Backup alarm\\Backup Version 0.9.1(Remindz)\\Android-Alarm-Clock-master1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\drawer_shadow.9.png",
+        "source": "D:\\Android Project\\Backup alarm\\Backup Version 0.9.1(Remindz)\\Android-Alarm-Clock-master1\\app\\src\\main\\res\\drawable-xxhdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\Backup alarm\\Backup Version 0.9.1(Remindz)\\Android-Alarm-Clock-master1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\dateic2.png",
+        "source": "D:\\Android Project\\Backup alarm\\Backup Version 0.9.1(Remindz)\\Android-Alarm-Clock-master1\\app\\src\\main\\res\\drawable-xxhdpi\\dateic2.png"
+    },
+    {
+        "merged": "D:\\Android Project\\Backup alarm\\Backup Version 0.9.1(Remindz)\\Android-Alarm-Clock-master1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\categoryico.png",
+        "source": "D:\\Android Project\\Backup alarm\\Backup Version 0.9.1(Remindz)\\Android-Alarm-Clock-master1\\app\\src\\main\\res\\drawable-xxhdpi\\categoryico.png"
+    },
+    {
+        "merged": "D:\\Android Project\\Backup alarm\\Backup Version 0.9.1(Remindz)\\Android-Alarm-Clock-master1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\alarmic.png",
+        "source": "D:\\Android Project\\Backup alarm\\Backup Version 0.9.1(Remindz)\\Android-Alarm-Clock-master1\\app\\src\\main\\res\\drawable-xxhdpi\\alarmic.png"
+    },
+    {
+        "merged": "D:\\Android Project\\Backup alarm\\Backup Version 0.9.1(Remindz)\\Android-Alarm-Clock-master1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\dateic.png",
+        "source": "D:\\Android Project\\Backup alarm\\Backup Version 0.9.1(Remindz)\\Android-Alarm-Clock-master1\\app\\src\\main\\res\\drawable-xxhdpi\\dateic.png"
+    }
+]

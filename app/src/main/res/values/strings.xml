@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+Copyright 2014 Sheldon Neilson www.neilson.co.za
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+-->
+<resources>
+    <!-- Application -->
+    <color name="holo_blue_light">#ff33b5e5</color>
+    <color name="logo_match">#289411</color>
+    <color name="light_ash">#e8ecd9</color>
+
+    <!-- Math Alarm Activity -->
+    <string name="app_name">Remindz</string>
+    <string name="title_activity_set_alarms">Set Alarm</string>
+    <string name="no_alarms">No alarms have been set</string>
+
+    <string name="button_new">New</string>
+
+    <!-- Menu -->
+    <string name="menu_item_new">New</string>
+    <string name="menu_item_save">Save</string>
+    <string name="menu_item_delete">Cancel</string>
+    <string name="menu_item_rate">Rate on Google Play</string>
+    <string name="menu_item_website">Website</string>
+    <string name="menu_item_report">Report a Bug</string>
+
+    <!-- Alert -->
+    <string name="_0">0</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="decimal_button_text">,</string>
+    <string name="clear_button_text">Clear</string>
+    <string name="minus_button_text">-</string>
+
+
+    <color name="title_background_color">#000000</color>
+
+    <string name="button_delete">Delete</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_second">SecondActivity</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="language_en">ENGLISH</string>
+    <string name="language_bn">বাংলা</string>
+    <string name="language_cn">中文</string>
+    <string name="language_fr">français</string>
+    <string name="language_gr">Deutsche</string>
+    <string name="language_hn">हिंदी</string>
+    <string name="language_jp">日本語</string>
+    <string name="language_sp">Español</string>
+
+
+    <string name="yesterday_en">YESTERDAY</string>
+    <string name="yesterday_bn">গতকাল</string>
+    <string name="yesterday_hin">बिता कल</string>
+    <string name="yesterday_chn">昨天</string>
+    <string name="yesterday_jpn">昨日</string>
+    <string name="yesterday_frn">hier</string>
+    <string name="yesterday_spn">ayer</string>
+    <string name="yesterday_gmn">gestern</string>
+
+    <string name="tomorrow_en">TOMORROW</string>
+    <string name="tomorrow_bn">আগামীকাল</string>
+    <string name="tomorrow_hin">आने वाला कल</string>
+    <string name="tomorrow_chn">明天</string>
+    <string name="tomorrow_jpn">明日</string>
+    <string name="tomorrow_frn">demain</string>
+    <string name="tomorrow_spn">mañana</string>
+    <string name="tomorrow_gmn">Morgen</string>
+
+    <string name="someday_en">SOMEDAY</string>
+    <string name="someday_bn">একদিন</string>
+    <string name="someday_hin">किसी दिन</string>
+    <string name="someday_chn">有一天</string>
+    <string name="someday_jpn">いつか</string>
+    <string name="someday_frn">un jour</string>
+    <string name="someday_spn">algún día</string>
+    <string name="someday_gmn">irgendwann mal</string>
+
+    <string name="ok_en">OK</string>
+    <string name="ok_bn">ঠিক আছে</string>
+    <string name="ok_hin">ठीक</string>
+    <string name="ok_chn">好</string>
+    <string name="ok_jpn">OK</string>
+    <string name="ok_frn">D\'accord</string>
+    <string name="ok_spn">De acuerdo</string>
+    <string name="ok_gmn">OK</string>
+
+    <string name="cancel_en">CANCEL</string>
+    <string name="cancel_bn">বাতিল</string>
+    <string name="cancel_hin">रद्द करना</string>
+    <string name="cancel_chn">取消</string>
+    <string name="cancel_jpn">キャンセル</string>
+    <string name="cancel_frn">Annuler</string>
+    <string name="cancel_spn">cancelar</string>
+    <string name="cancel_gmn">stornieren</string>
+
+    <string name="delete_en">DELETE</string>
+    <string name="delete_bn">মুছে ফেলা</string>
+    <string name="delete_hin">मिटाना</string>
+    <string name="delete_chn">删除</string>
+    <string name="delete_jpn">削除します</string>
+    <string name="delete_frn">effacer</string>
+    <string name="delete_spn">borrar</string>
+    <string name="delete_gmn">löschen</string>
+
+    <string name="active_en">Active</string>
+    <string name="active_bn">সক্রিয়</string>
+    <string name="active_hin">सक्रिय</string>
+    <string name="active_chn">活性</string>
+    <string name="active_jpn">アクティブ</string>
+    <string name="active_frn">actif</string>
+    <string name="active_spn">activo</string>
+    <string name="active_gmn">aktiv</string>
+
+    <string name="deactive_en">DEACTIVE</string>
+    <string name="deactive_bn"> নিষ্ক্রিয়</string>
+    <string name="deactive_hin">अक्रिय</string>
+    <string name="deactive_chn">停用</string>
+    <string name="deactive_jpn">非アクティブ</string>
+    <string name="deactive_frn">Deactive</string>
+    <string name="deactive_spn">Desactivado</string>
+    <string name="deactive_gmn">deaktive</string>
+
+    <string name="saturday_en">SATURDAY</string>
+    <string name="saturday_bn">শনিবার</string>
+    <string name="saturday_hin">शनिवार</string>
+    <string name="saturday_chn">星期六</string>
+    <string name="saturday_jpn">土曜日</string>
+    <string name="saturday_frn">samedi</string>
+    <string name="saturday_spn">sábado</string>
+    <string name="saturday_gmn">Samstag</string>
+
+    <string name="sunday_en">SUNDAY</string>
+    <string name="sunday_bn">রবিবার</string>
+    <string name="sunday_hin">रविवार</string>
+    <string name="sunday_chn">星期日</string>
+    <string name="sunday_jpn">日曜日</string>
+    <string name="sunday_frn">dimanche</string>
+    <string name="sunday_spn">domingo</string>
+    <string name="sunday_gmn">Sonntag</string>
+
+    <string name="monday_en">MONDAY</string>
+    <string name="monday_bn">সোমবার</string>
+    <string name="monday_hin">सोमवार</string>
+    <string name="monday_chn">星期一</string>
+    <string name="monday_jpn">月曜</string>
+    <string name="monday_frn">Lundi</string>
+    <string name="monday_spn">lunes</string>
+    <string name="monday_gmn">Montag</string>
+
+    <string name="tuesday_en">TUESDAY</string>
+    <string name="tuesday_bn">মঙ্গলবার</string>
+    <string name="tuesday_hin">मंगलवार</string>
+    <string name="tuesday_chn">星期二</string>
+    <string name="tuesday_jpn">火曜日</string>
+    <string name="tuesday_frn">Mardi</string>
+    <string name="tuesday_spn">martes</string>
+    <string name="tuesday_gmn">Dienstag</string>
+
+    <string name="wednesday_en">WEDNESDAY</string>
+    <string name="wednesday_bn">বুধবার</string>
+    <string name="wednesday_hin">बुधवार</string>
+    <string name="wednesday_chn">星期三</string>
+    <string name="wednesday_jpn">水曜日</string>
+    <string name="wednesday_frn">Mercredi</string>
+    <string name="wednesday_spn">miércoles</string>
+    <string name="wednesday_gmn">Mittwoch</string>
+
+
+    <string name="thursday_en">THURSDAY</string>
+    <string name="thursday_bn">বৃহস্পতিবার</string>
+    <string name="thursday_hin">गुरूवार</string>
+    <string name="thursday_chn">星期四</string>
+    <string name="thursday_jpn">木曜日</string>
+    <string name="thursday_frn">Jeudi</string>
+    <string name="thursday_spn">jueves</string>
+    <string name="thursday_gmn">Donnerstag</string>
+
+
+    <string name="friday_en">FRIDAY</string>
+    <string name="friday_bn"></string>
+    <string name="friday_hin"></string>
+    <string name="friday_chn"></string>
+    <string name="friday_jpn"></string>
+    <string name="friday_frn"></string>
+    <string name="friday_spn"></string>
+    <string name="friday_gmn"></string>
+
+
+    <string name="new_en">NEW</string>
+    <string name="new_bn">নতুন</string>
+    <string name="new_hin">नया</string>
+    <string name="new_chn">新</string>
+    <string name="new_jpn">新しい</string>
+    <string name="new_frn">Nouveau</string>
+    <string name="new_spn">nuevo</string>
+    <string name="new_gmn">neu</string>
+
+
+    <string name="save_en">SAVE</string>
+    <string name="save_bn">সংরক্ষণ</string>
+    <string name="save_hin">बचाना</string>
+    <string name="save_chn">保存</string>
+    <string name="save_jpn">セーブ</string>
+    <string name="save_frn">enregistrer</string>
+    <string name="save_spn">salvar</string>
+    <string name="save_gmn">sparen</string>
+
+
+    <string name="add_en">ADD</string>
+    <string name="add_bn">যোগ করা</string>
+    <string name="add_hin">जोड़ना</string>
+    <string name="add_chn">加</string>
+    <string name="add_jpn">加えます</string>
+    <string name="add_frn">ajouter</string>
+    <string name="add_spn">añadir</string>
+    <string name="add_gmn">hinzufügen</string>
+
+
+    <string name="settime_en">SET TIME</string>
+    <string name="settime_bn">সময় ঠিক করুন</string>
+    <string name="settime_hin">निर्धारित समय</string>
+    <string name="settime_chn">设置时间</string>
+    <string name="settime_jpn">設定した時間</string>
+    <string name="settime_frn">régler le temps</string>
+    <string name="settime_spn">fijar tiempo</string>
+    <string name="settime_gmn">Zeit einstellen</string>
+
+
+    <string name="yes_en">YES</string>
+    <string name="yes_bn">হ্যাঁ</string>
+    <string name="yes_hin">हाँ</string>
+    <string name="yes_chn">是</string>
+    <string name="yes_jpn">はい</string>
+    <string name="yes_frn">Oui</string>
+    <string name="yes_spn">sí</string>
+    <string name="yes_gmn">ja</string>
+
+
+    <string name="no_en">NO</string>
+    <string name="no_bn">না</string>
+    <string name="no_hin">नहीं</string>
+    <string name="no_chn">没有</string>
+    <string name="no_jpn">いいえ</string>
+    <string name="no_frn">non</string>
+    <string name="no_spn">no</string>
+    <string name="no_gmn">Nein</string>
+
+
+    <string name="inputcategory_en">inputcategory</string>
+    <string name="inputcategory_bn">ইনপুট বিভাগ</string>
+    <string name="inputcategory_hin">इनपुट श्रेणी</string>
+    <string name="inputcategory_chn">输入类别</string>
+    <string name="inputcategory_jpn">入力カテゴリ</string>
+    <string name="inputcategory_frn">catégorie d\'entrée</string>
+    <string name="inputcategory_spn">categoría de entrada</string>
+    <string name="inputcategory_gmn">eingegeben werden</string>
+
+
+    <string name="inputsubcategory_en">input sub category</string>
+    <string name="inputsubcategory_bn">ইনপুট সাব বিভাগ</string>
+    <string name="inputsubcategory_hin">इनपुट उप श्रेणी</string>
+    <string name="inputsubcategory_chn">输入子类</string>
+    <string name="inputsubcategory_jpn">入力サブカテゴリー</string>
+    <string name="inputsubcategory_frn">Sous-catégorie d\'entrée</string>
+    <string name="inputsubcategory_spn">Subcategoría de entrada</string>
+    <string name="inputsubcategory_gmn">Eingabe Unterkategorie</string>
+
+
+    <string name="note_en">Note</string>
+    <string name="note_bn"> নোট </string>
+    <string name="note_hin">ध्यान दें</string>
+    <string name="note_chn">注意</string>
+    <string name="note_jpn">注意</string>
+    <string name="note_frn">Remarque</string>
+    <string name="note_spn">Nota</string>
+    <string name="note_gmn">Hinweis</string>
+
+
+    <string name="alarm_en">Alarm</string>
+    <string name="alarm_bn">সংকেত</string>
+    <string name="alarm_hin">अलार्म</string>
+    <string name="alarm_chn">报警</string>
+    <string name="alarm_jpn">警報</string>
+    <string name="alarm_frn">alarme</string>
+    <string name="alarm_spn">alarma</string>
+    <string name="alarm_gmn">alarmieren</string>
+
+
+    <string name="setringtone_en">Set Ringtone</string>
+    <string name="setringtone_bn">সেট রিংটোন</string>
+    <string name="setringtone_hin">रिंगटोन सेट करें</string>
+    <string name="setringtone_chn">设定铃声</string>
+    <string name="setringtone_jpn">セット着メロ</string>
+    <string name="setringtone_frn">set sonnerie</string>
+    <string name="setringtone_spn">conjunto de melodía</string>
+    <string name="setringtone_gmn">Klingelton einstellen</string>
+
+
+    <string name="vibration_en">Vibration</string>
+    <string name="vibration_bn">কম্পন</string>
+    <string name="vibration_hin">कंपन</string>
+    <string name="vibration_chn">振动</string>
+    <string name="vibration_jpn">振動</string>
+    <string name="vibration_frn">vibration</string>
+    <string name="vibration_spn">vibración</string>
+    <string name="vibration_gmn">Vibration</string>
+
+
+    <string name="volumelevel_en">Volume Level</string>
+    <string name="volumelevel_bn">ভলিউম স্তর</string>
+    <string name="volumelevel_hin">खंड स्तर</string>
+    <string name="volumelevel_chn">音量</string>
+    <string name="volumelevel_jpn">音量</string>
+    <string name="volumelevel_frn">niveau de volume</string>
+    <string name="volumelevel_spn">nivel de volumen</string>
+    <string name="volumelevel_gmn">Lautstärke einstellen</string>
+
+
+    <string name="clicky_en">Click Yes To Exit</string>
+    <string name="clicky_bn">বের হওয়ার জন্য হ্যা চাপুন</string>
+    <string name="clicky_hin"></string>
+    <string name="clicky_chn">单击“是”退出</string>
+    <string name="clicky_jpn">終了するには[はい]をクリックします</string>
+    <string name="clicky_frn">Cliquez sur oui pour quitter</string>
+    <string name="clicky_spn">Haga clic en Sí para salir</string>
+    <string name="clicky_gmn">Klicken Sie zum Beenden auf Ja</string>
+
+
+    <string name="hour_en">Hour</string>
+    <string name="hour_bn">ঘন্টা</string>
+    <string name="hour_hin">घंटा</string>
+    <string name="hour_chn">小时</string>
+    <string name="hour_jpn">アワー</string>
+    <string name="hour_frn">heure</string>
+    <string name="hour_spn">hora</string>
+    <string name="hour_gmn">Stunde</string>
+
+
+    <string name="minutes_en">Minutes</string>
+    <string name="minutes_bn">মিনিট</string>
+    <string name="minutes_hin">मिनटों</string>
+    <string name="minutes_chn">分钟</string>
+    <string name="minutes_jpn">分</string>
+    <string name="minutes_frn">minutes</string>
+    <string name="minutes_spn">minutos</string>
+    <string name="minutes_gmn">Protokoll</string>
+
+
+    <string name="settings_en">Settings</string>
+    <string name="settings_bn">সেটিংস</string>
+    <string name="settings_hin">सेटिंग्स</string>
+    <string name="settings_chn">设置</string>
+    <string name="settings_jpn">設定</string>
+    <string name="settings_frn">paramètres</string>
+    <string name="settings_spn">ajustes</string>
+    <string name="settings_gmn">Einstellungen</string>
+
+
+    <string name="_lachange_en">Language Change</string>
+    <string name="_lachange_bn">ভাষা পরিবর্তন</string>
+    <string name="_lachange_hin">भाषा परिवर्तन</string>
+    <string name="_lachange_chn">语言变化</string>
+    <string name="_lachange_jpn">言語変化</string>
+    <string name="_lachange_frn">changement de langue</string>
+    <string name="_lachange_spn">cambio de idioma</string>
+    <string name="_lachange_gmn">Sprachwechsel</string>
+
+
+    <string name="faq_en">FAQ</string>
+    <string name="faq_bn">প্রশ্নাবলী</string>
+    <string name="faq_hin">सामान्य प्रश्न</string>
+    <string name="faq_chn">常问问题</string>
+    <string name="faq_jpn">よくある質問</string>
+    <string name="faq_frn">FAQ</string>
+    <string name="faq_spn">Preguntas más frecuentes</string>
+    <string name="faq_gmn">FAQ</string>
+
+
+    <string name="aboutus_en">ABOUT US</string>
+    <string name="aboutus_bn">আমাদের সম্পর্কে</string>
+    <string name="aboutus_hin">हमारे बारे में</string>
+    <string name="aboutus_chn">关于我们</string>
+    <string name="aboutus_jpn">私たちに関しては</string>
+    <string name="aboutus_frn">à propos de nous</string>
+    <string name="aboutus_spn">sobre nosotros</string>
+    <string name="aboutus_gmn">Über uns</string>
+
+    <string name="advertisement_en">ADVERTISEMENT</string>
+    <string name="advertisement_bn">বিজ্ঞাপন</string>
+    <string name="advertisement_hin">विज्ञापन</string>
+    <string name="advertisement_chn">广告</string>
+    <string name="advertisement_jpn">広告</string>
+    <string name="advertisement_frn">publicité</string>
+    <string name="advertisement_spn">anuncio</string>
+    <string name="advertisement_gmn">Werbung</string>
+
+
+    <string name="rateus_en">RATE US</string>
+    <string name="rateus_bn">আমাদের ব্যাপারে আপনার মতামত দিন</string>
+    <string name="rateus_hin">हमें रेटिंग दें</string>
+    <string name="rateus_chn">评价我们</string>
+    <string name="rateus_jpn">私たちを評価してください</string>
+    <string name="rateus_frn">évaluez nous</string>
+    <string name="rateus_spn">nos califica</string>
+    <string name="rateus_gmn">bewerten Sie uns</string>
+
+    <string name="edit_en">EDIT</string>
+    <string name="edit_bn">সম্পাদন করা</string>
+    <string name="edit_hin">संपादित</string>
+    <string name="edit_chn">编辑</string>
+    <string name="edit_jpn">編集</string>
+    <string name="edit_frn">modifier</string>
+    <string name="edit_spn">editar</string>
+    <string name="edit_gmn">bearbeiten</string>
+
+    <string name="complete_en">COMPLETE</string>
+    <string name="complete_bn">সম্পূর্ণ</string>
+    <string name="complete_hin">पूर्ण</string>
+    <string name="complete_chn">完成</string>
+    <string name="complete_jpn">コンプリート</string>
+    <string name="complete_frn">Achevée</string>
+    <string name="complete_spn">completar</string>
+    <string name="complete_gmn">komplett</string>
+
+
+    <string name="today_en">TODAY</string>
+    <string name="today_bn">আজ</string>
+    <string name="today_hin">आज</string>
+    <string name="today_chn">今天</string>
+    <string name="today_jpn">今日</string>
+    <string name="today_frn">aujourd\'hui</string>
+    <string name="today_spn">hoy</string>
+    <string name="today_gmn">heute</string>
+
+
+    <string name="dayaftertomorrow_en">DAY AFTER TOMRROW</string>
+    <string name="dayaftertomorrow_bn">পরশু</string>
+    <string name="dayaftertomorrow_hin">परसों</string>
+    <string name="dayaftertomorrow_chn">后天</string>
+    <string name="dayaftertomorrow_jpn">明後日</string>
+    <string name="dayaftertomorrow_frn">après demain</string>
+    <string name="dayaftertomorrow_spn">Pasado mañana</string>
+    <string name="dayaftertomorrow_gmn">übermorgen</string>
+
+    <string name="date_en">DATE</string>
+    <string name="date_bn">পরশু</string>
+    <string name="date_hin">परसों</string>
+    <string name="date_chn">后天</string>
+    <string name="date_jpn">明後日</string>
+    <string name="date_frn">après demain</string>
+    <string name="datew_spn">Pasado mañana</string>
+    <string name="date_gmn">übermorgen</string>
+
+    <string name="repeat_en">REPEAT</string>
+    <string name="repeat_bn">পর</string>
+    <string name="repeat_hin">परसों</string>
+    <string name="repeat_chn">后天</string>
+    <string name="repeat_jpn">明後日</string>
+    <string name="repeat_frn">après demain</string>
+    <string name="repeat_spn">Pasado mañana</string>
+    <string name="repeat_gmn">übermorgen</string>
+</resources>
